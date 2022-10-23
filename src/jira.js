@@ -303,6 +303,7 @@ export default class JiraApi {
 
       return response;
     } catch (e) {
+      console.log('JIRA REQUEST ERROR', e)
       throw new Error(e);
     }
   }

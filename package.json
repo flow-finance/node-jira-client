@@ -1,5 +1,5 @@
 {
-  "name": "jira-client",
+  "name": "@flowfinance/jira-client",
   "version": "8.2.0",
   "description": "Wrapper for the JIRA API",
   "author": "Steven Surowiec <steven.surowiec@gmail.com>",
@@ -9,10 +9,10 @@
     "Matt Smith <mtscout6+node-jira@gmail.com>",
     "Anson Wayman <kanoyugoro+node-jira@gmail.com>"
   ],
-  "homepage": "http://github.com/jira-node/node-jira-client",
+  "homepage": "http://github.com/flow-finance/node-jira-client",
   "repository": {
     "type": "git",
-    "url": "http://github.com/jira-node/node-jira-client"
+    "url": "http://github.com/flow-finance/node-jira-client"
   },
   "engine": {
     "node": ">=10.0.0"
