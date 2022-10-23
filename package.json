@@ -21,6 +21,7 @@
   "files": [
     "lib",
     "docs",
+    "index.d.ts",
     "LICENSE.md",
     "README.md"
   ],
